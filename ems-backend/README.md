@@ -1,19 +1,21 @@
-This projects base was created from https://start.spring.io/
+This projects base was created from https://start.spring.io/<br>
 
-Project: Maven
-Spring Boot: 3.3.2
+Project: Maven<br>
+Spring Boot: 3.3.2<br>
 
-Project Metadata
-Group: net.javaguides
-Artifact: ems-backend
-Name: ems-backend
-Description: Demo project for Employee Management System
-Package name: net.javaguides.ems
-Packaging: Jar
-Java: 17
+Project Metadata <br>
+Group: net.javaguides<br>
+Artifact: ems-backend<br>
+Name: ems-backend<br>
+Description: Demo project for Employee Management System<br>
+Package name: net.javaguides.ems<br>
+Packaging: Jar<br>
+Java: 17<br>
 
-Dependencies
-Spring Web
-Spring Data JPA
-PostgreSQL Driver
-Lombok
+Dependencies<br>
+Spring Web<br>
+Spring Data JPA<br>
+PostgreSQL Driver<br>
+Lombok<br>
+
+![createappsettings.png](createappsettings.png)
