@@ -1,18 +1,18 @@
-This projects base was created from https://start.spring.io/<br>
+<b style="color: red;">This projects base was created from <a href="https://start.spring.io/">Spring IO</a></b><br>
 
-Project: Maven<br>
-Spring Boot: 3.3.2<br>
+<b style="color: red;">Project:</b> Maven<br>
+<b style="color: red;">Spring Boot:</b> 3.3.2<br>
 
-Project Metadata <br>
-Group: net.javaguides<br>
-Artifact: ems-backend<br>
-Name: ems-backend<br>
-Description: Demo project for Employee Management System<br>
-Package name: net.javaguides.ems<br>
-Packaging: Jar<br>
-Java: 17<br>
+<b style="color: red;">Project Metadata </b><br>
+<b>Group:</b> net.javaguides<br>
+<b>Artifact:</b> ems-backend<br>
+<b>Name:</b> ems-backend<br>
+<b>Description:</b> Demo project for Employee Management System<br>
+<b>Package name:</b> net.javaguides.ems<br>
+<b>Packaging:</b> Jar<br>
+<b>Java:</b> 17<br>
 
-Dependencies<br>
+<b style="color: red;">Dependencies</b><br>
 Spring Web<br>
 Spring Data JPA<br>
 PostgreSQL Driver<br>
