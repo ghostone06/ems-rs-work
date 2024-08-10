@@ -17,5 +17,3 @@ Spring Web
 Spring Data JPA
 PostgreSQL Driver
 Lombok
-
-![createappsettings.png](createappsettings.png)
