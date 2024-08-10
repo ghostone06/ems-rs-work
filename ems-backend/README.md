@@ -1,4 +1,4 @@
-<b style="color: red;">This projects base was created from <a href="https://start.spring.io/">Spring IO</a></b><br>
+<b style="color: red;">This projects base was created from <a target="_blank" href="https://start.spring.io/">Spring IO</a></b><br>
 
 <b style="color: red;">Project:</b> Maven<br>
 <b style="color: red;">Spring Boot:</b> 3.3.2<br>
